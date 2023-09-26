@@ -1,0 +1,312 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Ficção Científica"
+    },
+    {
+      "id": 5,
+      "nome": "História"
+    },
+    {
+      "id": 8,
+      "nome": "Poesia"
+    },
+    {
+      "id": 9,
+      "nome": "Autoajuda"
+    },
+    {
+      "id": 10,
+      "nome": "Biografia"
+    },
+    {
+      "id": 11,
+      "nome": "Tecnologia"
+    },
+    {
+      "id": 12,
+      "nome": "Política"
+    },
+    {
+      "id": 13,
+      "nome": "Arte"
+    },
+    {
+      "id": 14,
+      "nome": "Viagens"
+    },
+    {
+      "id": 7,
+      "nome": "futebol"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "O Livro de Ouro da História Universal",
+      "autor": "C. M. de Vasconcellos",
+      "anoPublicacao": 1955,
+      "isbn": "978-8525411654",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 5,
+      "titulo": "As Veias Abertas da América Latina",
+      "autor": "Eduardo Galeano",
+      "anoPublicacao": 1971,
+      "isbn": "978-8535908064",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 6,
+      "titulo": "Uma Breve História da Rússia",
+      "autor": "Mary Platt Parmele",
+      "anoPublicacao": 1907,
+      "isbn": "978-1975690748",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 7,
+      "titulo": "A História do Mundo em 100 Objetos",
+      "autor": "Neil MacGregor",
+      "anoPublicacao": 2010,
+      "isbn": "978-0670022700",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 8,
+      "titulo": "A História Secreta da CIA",
+      "autor": "Joseph J. Trento",
+      "anoPublicacao": 2001,
+      "isbn": "978-1560254052",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 9,
+      "titulo": "A História do Mundo em 6 Copos",
+      "autor": "Tom Standage",
+      "anoPublicacao": 2005,
+      "isbn": "978-0802715524",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 10,
+      "titulo": "A Segunda Guerra Mundial: Uma História das Vítimas",
+      "autor": "Donald Bloxham",
+      "anoPublicacao": 2017,
+      "isbn": "978-0199543776",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 11,
+      "titulo": "O Grande Livro da História do Mundo",
+      "autor": "Peter L. Hays",
+      "anoPublicacao": 2004,
+      "isbn": "978-8575032701",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 12,
+      "titulo": "Os 13 Porquês da Segunda Guerra Mundial",
+      "autor": "Johan Otto von Spreckelsen",
+      "anoPublicacao": 2017,
+      "isbn": "978-8525056836",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 13,
+      "titulo": "A História do Brasil Para Quem Tem Pressa",
+      "autor": "Marco Morel",
+      "anoPublicacao": 2018,
+      "isbn": "978-8542208767",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 14,
+      "titulo": "A Revolução Russa",
+      "autor": "Sheila Fitzpatrick",
+      "anoPublicacao": 2017,
+      "isbn": "978-8537816864",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 15,
+      "titulo": "O Império Otomano: A Ascensão, o Apogeu e a Queda",
+      "autor": "Stephen Kinzer",
+      "anoPublicacao": 2016,
+      "isbn": "978-8535928222",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 16,
+      "titulo": "A História da Arte",
+      "autor": "E.H. Gombrich",
+      "anoPublicacao": 1950,
+      "isbn": "978-8525411197",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 17,
+      "titulo": "A Segunda Guerra Mundial: Os 2.174 Dias Que Mudaram o Mundo",
+      "autor": "David Boyle",
+      "anoPublicacao": 2018,
+      "isbn": "978-8525066162",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 18,
+      "titulo": "A História da Civilização - Volume I: A Grande Tragédia",
+      "autor": "Will Durant",
+      "anoPublicacao": 1935,
+      "isbn": "978-8525413832",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    [
+      {
+        "id": 9,
+        "titulo": "A História do Mundo em 6 Copos",
+        "autor": "Tom Standage",
+        "anoPublicacao": 2005,
+        "isbn": "978-0802715524",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 10,
+        "titulo": "A Segunda Guerra Mundial: Uma História das Vítimas",
+        "autor": "Donald Bloxham",
+        "anoPublicacao": 2017,
+        "isbn": "978-0199543776",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 11,
+        "titulo": "O Grande Livro da História do Mundo",
+        "autor": "Peter L. Hays",
+        "anoPublicacao": 2004,
+        "isbn": "978-8575032701",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 12,
+        "titulo": "Os 13 Porquês da Segunda Guerra Mundial",
+        "autor": "Johan Otto von Spreckelsen",
+        "anoPublicacao": 2017,
+        "isbn": "978-8525056836",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 13,
+        "titulo": "A História do Brasil Para Quem Tem Pressa",
+        "autor": "Marco Morel",
+        "anoPublicacao": 2018,
+        "isbn": "978-8542208767",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 14,
+        "titulo": "A Revolução Russa",
+        "autor": "Sheila Fitzpatrick",
+        "anoPublicacao": 2017,
+        "isbn": "978-8537816864",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 15,
+        "titulo": "O Império Otomano: A Ascensão, o Apogeu e a Queda",
+        "autor": "Stephen Kinzer",
+        "anoPublicacao": 2016,
+        "isbn": "978-8535928222",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 16,
+        "titulo": "A História da Arte",
+        "autor": "E.H. Gombrich",
+        "anoPublicacao": 1950,
+        "isbn": "978-8525411197",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 17,
+        "titulo": "A Segunda Guerra Mundial: Os 2.174 Dias Que Mudaram o Mundo",
+        "autor": "David Boyle",
+        "anoPublicacao": 2018,
+        "isbn": "978-8525066162",
+        "disponivel": true,
+        "categoriaId": 5
+      },
+      {
+        "id": 18,
+        "titulo": "A História da Civilização - Volume I: A Grande Tragédia",
+        "autor": "Will Durant",
+        "anoPublicacao": 1935,
+        "isbn": "978-8525413832",
+        "disponivel": true,
+        "categoriaId": 5
+      }
+    ]
+  ]
+}
